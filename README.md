@@ -1,12 +1,11 @@
-Link to File 1: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=titles.csv 
+Titles.csv: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=titles.csv 
 
-Dataset 1 Description: 
+Dataset Description: 
 The dataset titles.csv found on Kaggle contains around 5 thousand unique titles on Netflix with 15 columns containing their information, including movie id, title, show type, description, release year, genre, imbd score, imbd votes, tmbd score, and tmbd popularity. 
 
-Link to File 2:
-https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=credits.csv 
+Credits.csv: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=credits.csv 
 
-Dataset 2 Description: 
+Dataset Description: 
 The credits.csv dataset contains almost 78 thousand records detailing actors and directors for TV shows and movies on Netflix. The dataset also states which character each actor played in the movies or TV shows they acted in.
 
 Summary of current understanding of the data-wrangling/data-merging issues: 
