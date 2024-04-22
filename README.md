@@ -1,7 +1,3 @@
-Titles.csv: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=titles.csv 
-
-Credits.csv: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=credits.csv 
-
 <img height="500" width="500" alt="DTNetflix1" src="https://github.com/carolina-bolnykh/data-science/assets/91427069/d211ca39-0839-4711-8f58-86af75b1be7e">
 <img height="500" width="500" alt="DTNetflix2" src="https://github.com/carolina-bolnykh/data-science/assets/91427069/64ea65cc-e289-433b-bb90-78ed8aa55b5b">
 
