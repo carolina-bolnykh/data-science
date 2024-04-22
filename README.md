@@ -1,4 +1,4 @@
-<h1> Netflix IMDB Score Analysis, Prediction & Classification</h1>h1
+<h1> Netflix IMDB Score Analysis, Prediction & Classification</h1>
 
 📖 Titles.csv https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data?select=titles.csv 
 
